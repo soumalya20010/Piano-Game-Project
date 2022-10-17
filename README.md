@@ -1,6 +1,6 @@
 # Piano-Game-Project
 
-Make piano game completed
+Make piano game completed with adding functionality
 
 <h1 align="center">Start Contributing </h1>
 <br>
@@ -78,16 +78,11 @@ git push -u origin <your_branch_name>
 
 ## How to contribute in this repositories?
 
-- Create Folder with `Your Name`
-- In Your Flolder Name Create a file `.html` and `.css` and `README.md` create a profile-tamplete
-- Take screenshort of Your Profile-Tamplete and add into your `README.md` file.
-- If you want to demo <a href="https://github.com/mitalrs/Short-Profile-With-HTML-CSS/tree/main/MitalSapkale" title="see the repo">profile-tamplete</a>
+- solve issue they assigned you
 - Also add your name into <a href="/CONTRIBUTING.md">CONTRIBUTING.md</a>
 
-##### Note: do not change any folder except your folder!!
+##### Note:  <a href="https://coolors.co/palette/90f1ef-ffd6e0-ffef9f-c1fba4-7bf1a8" title="see the repo">Use for color code</a>
+ <a href="http://tanksw.com/piano-tiles/" title="see the repo">Use as referance (Arcade mode)</a>
 
-<a href="https://github.com/mitalrs/Short-Profile-With-HTML-CSS/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mitalrs/Short-Profile-With-HTML-CSS" />
-</a>
 
 
