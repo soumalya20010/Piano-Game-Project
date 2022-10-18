@@ -52,12 +52,9 @@ git checkout -b <your_branch_name>
 
 Run the following command to install the required dependencies.
 
-1. Create your profile as u wish using HTML-CSS
-2. Example:
-    
-    <img src="/MitalSapkale/img/profileTamplete.png" alt="profile-tamplete" width="500" height="500"> 
+1. Add a changes was you assigned on to it.
 
-5. Stage your changes and commit
+2. Stage your changes and commit
 
 ```css
 git add -a
@@ -65,15 +62,15 @@ git add -a
 git commit -m "<your_commit_message>"
 ```
 
-6. Push your local commits to the remote repo.
+3. Push your local commits to the remote repo.
 
 ```yml
 git push -u origin <your_branch_name>
 ```
 
-7. Create a <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests" title="Pull Request">Pull-Request</a> to `main`.
+4. Create a <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests" title="Pull Request">Pull-Request</a> to `main`.
 
-8. Wait for merge!!
+5. Wait for merge!!
 
 
 ## How to contribute in this repositories?
